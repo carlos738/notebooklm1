@@ -24,3 +24,31 @@ A etapa técnica final definiu a organização estrutural para a autonomia robó
 
 --------------------------------------------------------------------------------
 Objetivo Final: Este notebook serve como uma infraestrutura de conhecimento para entender o ponto de inflexão tecnológica de 2030, onde a IA deixa de ser apenas digital para se manifestar plenamente no mundo físico.
+
+
+
+
+
+3. Fontes do Projeto
+Esta análise baseou-se nas seguintes referências técnicas e de mercado:
+
+    Consultorias Estratégicas:
+        Bain & Company: Relatório "Labor 2030: The Collision of Demographics, Automation and Inequality".
+        Deloitte Insights: "TMT Predictions 2026: AI for Industrial Robotics, Humanoid Robots, and Drones".
+        McKinsey Global Institute: Relatório de Tendências Tecnológicas e parcerias de IA.
+    Inteligência de Mercado e Tecnologia:
+        Recorded Future: Análise sobre o futuro da robótica humanoide e cibersegurança.
+        TrendForce & SNE Research: Projeções sobre o mercado de baterias de estado sólido para 2040.
+        MarketsandMarkets: Relatório sobre o Crescimento do Mercado de Robótica Inteligente até 2030.
+    Saúde e Setores Específicos:
+        MD+DI (Medical Device and Diagnostic Industry): Visão geral do mercado de robótica cirúrgica.
+        Ken Research: Impacto da robótica em lares de idosos e sistemas de saúde nos EUA e Japão.
+    Desenvolvedores Líderes de Tecnologia:
+        Tesla, Figure AI e Hyundai/Boston Dynamics: Roadmaps oficiais e atualizações de produtos (Optimus, Helix, Atlas).
+    Conteúdo Especializado e de Mídia:
+        YouTube "Realidade Impressionante": Transcrição sobre as 20 tecnologias transformadoras para 2030.
+        YouTube "Future Business Tech": O Futuro da IA e Companheiros Digitais até 2030.
+
+
+--------------------------------------------------------------------------------
+Nota de Uso: Este projeto foi desenvolvido para fins educacionais e de pesquisa estratégica, consolidando dados de domínio público e relatórios de especialistas.
